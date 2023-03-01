@@ -1,2 +1,2 @@
 # Proyecto_InovaTec
-Contiene los códigos del proyecto 
+Contiene los códigos y evidencias del proyecto 
